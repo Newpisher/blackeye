@@ -60,5 +60,5 @@ Usage of BlackEye for attacking targets without prior mutual consent is illegal.
 git clone https://github.com/shuvo-halder/blackeye
 cd blackeye
 bash blackeye.sh
-```
+``
 
